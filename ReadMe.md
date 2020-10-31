@@ -1,3 +1,6 @@
+# HYSEA Hackathon Prototype Submission
+Note: If you have any doubts/queries on the idea submission, please reach out to us.
+
 # Idea/Project Name : 
 ConnectED  - Connecting government education in India
 
@@ -15,7 +18,7 @@ Entire application is built with Pega Infinity 8.5. We have used several intelli
 ## This repo includes below files/references:
 
 ###### PegaConnectedApp 
-Code artificats zip file which only works on Pega Platform. You should have PEGA competency to install this RAP. Please download from below drive link.
+Code artificats zip file which only works on Pega Platform. You should have PEGA competency to install this RAP. Please download from below drive link. <br/>
 https://drive.google.com/drive/folders/1PbY-UBCeEO2oUJsQtEncxJPt_P8eNAhM?usp=sharing
 
 ###### ConnectED_Tech4Good
