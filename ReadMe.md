@@ -1,9 +1,9 @@
 # Idea/Project Name : 
 ConnectED  - Connecting government education in India
 
-Watch the idea pitch on below link.
+Watch the idea pitch on below link. <br/>
 https://youtu.be/6xj8WRu5y_E
-Watch the application walkthrough on below link.
+Watch the application walkthrough on below link. <br/>
 https://youtu.be/poScNmR6mh0
 
 ## Description:
