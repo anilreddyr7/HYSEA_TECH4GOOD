@@ -8,7 +8,9 @@ ConnectED is the platform where the govt schools can connect with other schools 
 Entire application is built with Pega Infinity 8.5. We have used several intelligent capabilities such as pulse for colloboration, Pega Text analytics etc in achieving some of the usecases.
 
 ###### This repo includes below files:
-## PegaConnectedApp  - It is code artificats which only works on Pega Platform. You should have PEGA competency to install this RAP.
+## PegaConnectedApp  - It is code artificats which only works on Pega Platform. You should have PEGA competency to install this RAP. Please download from below drive link.
+https://drive.google.com/drive/folders/1PbY-UBCeEO2oUJsQtEncxJPt_P8eNAhM?usp=sharing
+
 ## ConnectED_Tech4Good - PPT explaining the project concept.
 
 Watch the hackathon video pitch on below link.
