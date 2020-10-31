@@ -2,7 +2,7 @@
 ConnectED  - Connecting government education in India
 
 Watch the idea pitch on below link. <br/>
-https://youtu.be/6xj8WRu5y_E
+https://youtu.be/6xj8WRu5y_E   <br/>
 Watch the application walkthrough on below link. <br/>
 https://youtu.be/poScNmR6mh0
 
