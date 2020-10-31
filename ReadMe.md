@@ -1,4 +1,4 @@
-## Idea/Project Name : 
+# Idea/Project Name : 
 ConnectED  - Connecting government education in India
 
 ## Description:
@@ -8,7 +8,12 @@ ConnectED is the platform where the govt schools can connect with other schools 
 Entire application is built with Pega Infinity 8.5. We have used several intelligent capabilities such as pulse for colloboration, Pega Text analytics etc in achieving some of the usecases.
 
 ###### This repo includes below files:
-PegaConnectedApp  - It is code artificats which only works on Pega Platform. You should have PEGA competency to install this RAP.
-ConnectED_Tech4Good - PPT explaining the project concept.
+## PegaConnectedApp  - It is code artificats which only works on Pega Platform. You should have PEGA competency to install this RAP.
+## ConnectED_Tech4Good - PPT explaining the project concept.
+
+Watch the hackathon video pitch on below link.
+
+https://youtu.be/6xj8WRu5y_E
+
 
 
