@@ -5,7 +5,7 @@ Note: If you have any doubts/queries on the idea submission, please reach out to
 ConnectED  - Connecting government education in India
 
 Watch the idea pitch on below link. <br/>
-https://youtu.be/kvreEePQjNo   <br/>
+https://youtu.be/9SBpldY9c80   <br/>
 Watch the application walkthrough on below link. <br/>
 https://youtu.be/poScNmR6mh0
 
